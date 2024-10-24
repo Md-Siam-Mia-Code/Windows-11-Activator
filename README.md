@@ -21,4 +21,5 @@ Ensure you run PowerShell **as Administrator** to execute the script correctly. 
 Copy and paste the following command into your PowerShell window:
 
 ```powershell
-irm "https://github.com/Md-Siam-Mia-Code/Windows-11-Activator/blob/main/Activator.ps1" | iex
+irm "https://raw.githubusercontent.com/Md-Siam-Mia-Code/Windows-11-Activator/main/Activator.ps1" | iex
+```
